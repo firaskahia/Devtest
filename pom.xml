@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.esprit.examen</groupId><!-- ltestttt -->
-	<artifactId>tpAchatProject</artifactId>
+	<artifactId>tpAchatProject</artifactId><!-- lookup parent from repository -->
 	<version>1.0</version>
 	<name>tpAchatProject</name>
 	<description>tpAchatProject</description>
